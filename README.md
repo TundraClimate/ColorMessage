@@ -1,15 +1,12 @@
 # StrangeGuns
 
-added StrangeGuns
+You can use color messages with "&"!
 
 # Features
 
-Unlike crack shots, you can't add guns.
-However, we will add a lot of Strange guns!
+It will be activated when you insert the plugin,
 
-Crack Shot: https://www.spigotmc.org/resources/crackshot-guns.48301/
-
-AuthorBy: Shampaggon
+so you don't have to do any trouble!
 
 # Usage
 
@@ -17,9 +14,11 @@ spigotServer/plugins
 
 -> add this.
 
+example: &cHello!
+
 # Note
 
-Minecraft Version: 1.16
+Minecraft Version: 1.18
 
 # Author
 
@@ -27,4 +26,4 @@ Minecraft Version: 1.16
 
 # License
 
-"StrangeGuns" is under [Apache license](https://en.wikipedia.org/wiki/Apache_License).
+"ColorMessage" is under [Apache license](https://en.wikipedia.org/wiki/Apache_License).
