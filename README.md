@@ -1,4 +1,4 @@
-# StrangeGuns
+# ColorMessage
 
 You can use color messages with "&"!
 
