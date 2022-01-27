@@ -1,0 +1,6 @@
+name: ColorMessage
+version: '${version}'
+main: tundraclimate.com.github.colormessage.ColorMessage
+api-version: 1.18
+authors: [ Tundra_Climate ]
+description: "'&'added can Use Color Message!"
